@@ -1,6 +1,7 @@
 # 📦 Webpack Boilerplate
 
 Complete the following tasks in the corresponding functions
+
 *To complete the tasks use the books array in the src/js/App.js file*
 1. Using this array, create an array containing all books with pages below 400
 2. Create an array containing all books with pages above 400 and below or equal to 700
