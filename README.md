@@ -1,4 +1,4 @@
-# 📦 Webpack Boilerplate
+# 📦 JavaScript Task 1
 
 Complete the following tasks in the corresponding functions
 
