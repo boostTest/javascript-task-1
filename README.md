@@ -26,11 +26,11 @@ Complete the following tasks in the corresponding functions
 3. Never work in the #master and #dev branches, create a separate branch for every feature that you make
 4. Don't make too many branches
 5. Once you make a feature branch and you are done working on it
-6. Rebase each feature branch into your task branch
-7. Merge the feature branch into your task branch and delete it
-8. Then you can make another feature branch if needed
-9. Commit often, but not too often (at least 3 times per task)
-10. Use TortoiseGit and not the console or a IDE
+    * Rebase each feature branch into your task branch
+    * Merge the feature branch into your task branch and delete it
+6. Then you can make another feature branch if needed
+7. Commit often, but not too often (at least 3 times per task)
+8. Use TortoiseGit and not the console or a IDE
 
 ## Installation
 
